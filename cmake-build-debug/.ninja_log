@@ -1,0 +1,21 @@
+# ninja log v5
+0	523	1714815971704569405	CMakeFiles/broadcast_cient.dir/client/src/broadcast.cpp.o	5ff05f327f197dfe
+1104	1232	1714816071401217839	broadcast_client	fb44f9897c4b9dfc
+933	1022	1714816346907135808	multicast_server	a6cb15aa7afb06e5
+0	519	1714815608226540121	CMakeFiles/broadcast_server.dir/server/src/broadcast.cpp.o	d4d39676fe1790b6
+358	691	1714816346575133409	CMakeFiles/multicast_server.dir/server/src/Server.cpp.o	daec852351994495
+882	1080	1714815608786542704	CMakeFiles/broadcast_server.dir/server/src/stos.cpp.o	c16c0f7196941933
+697	932	1714816346815135144	CMakeFiles/multicast_server.dir/server/src/stos.cpp.o	7b0cc8d40bda340a
+496	865	1714816071041215445	CMakeFiles/broadcast_client.dir/client/src/Client.cpp.o	7f09b0b9ac940ead
+523	976	1714815972152572250	CMakeFiles/broadcast_cient.dir/client/src/Client.cpp.o	f2db0d83c0288a50
+525	880	1714815608586541782	CMakeFiles/broadcast_server.dir/server/src/Server.cpp.o	39e466f1724d74fd
+1081	1146	1714815608854543017	broadcast_server	51ed0e9944426bb2
+0	495	1714816070653212866	CMakeFiles/broadcast_client.dir/client/src/broadcast.cpp.o	5c14a13f4eff7f8a
+1	472	1714816354931193819	CMakeFiles/multicast_client.dir/client/src/multicast.cpp.o	9763a6848fac12a4
+865	1104	1714816071269216962	CMakeFiles/broadcast_client.dir/client/src/stos.cpp.o	78eb6aec7e7bc614
+0	358	1714816346227130897	CMakeFiles/multicast_server.dir/server/src/multicast.cpp.o	8dea598332b775b5
+0	448	1714816399435517365	CMakeFiles/multicast_client.dir/client/src/Client.cpp.o	b939d6a930322dec
+449	770	1714816399755519701	CMakeFiles/multicast_client.dir/client/src/stos.cpp.o	acb9d90a479131a5
+771	893	1714816399879520606	multicast_client	d8f748529a9c4e9e
+0	429	1714817424469850019	CMakeFiles/multicast_client.dir/client/src/multicast.cpp.o	9763a6848fac12a4
+434	539	1714817424585850458	multicast_client	d8f748529a9c4e9e

@@ -1,0 +1,6 @@
+/home/user1/CLionProjects/os_hw11/cmake-build-debug/CMakeFiles/broadcast_server.dir
+/home/user1/CLionProjects/os_hw11/cmake-build-debug/CMakeFiles/multicast_server.dir
+/home/user1/CLionProjects/os_hw11/cmake-build-debug/CMakeFiles/broadcast_client.dir
+/home/user1/CLionProjects/os_hw11/cmake-build-debug/CMakeFiles/multicast_client.dir
+/home/user1/CLionProjects/os_hw11/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user1/CLionProjects/os_hw11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
